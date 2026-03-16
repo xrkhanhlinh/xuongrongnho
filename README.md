@@ -62,10 +62,10 @@
   <a href="https://youtube.com/@xrkhanhlinh" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/linh-nguyen-khanh-ab2ab0334/" target="blank">
+  <a href="https://www.linkedin.com/in/xrkhanhlinh/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
-  <a href="https://instagram.com/xuongrong_tur/" target="blank">
+  <a href="https://instagram.com/xrkhanhlinh/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
   <a href="mailto:xrkhanhlinh@gmail.com" target="top">
